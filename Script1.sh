@@ -4,4 +4,6 @@ echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
+echo "This is my first script in EC2 instance"
+echo "Adding one more line to test git fetch"
 
